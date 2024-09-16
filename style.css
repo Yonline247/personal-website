@@ -1,0 +1,42 @@
+body{
+    margin: 0px;
+    font-family: "Slabo 27px", serif; 
+}
+
+h1{
+    font-size: 50px;
+}
+h2{
+    font-size: 30px;
+}
+
+.yousuf{
+    color: rgb(171, 8, 185);
+    font-size: 50px;  
+}
+
+.first-part{
+    background-image: url( images/header-bg.png );
+    background-repeat: no-repeat;
+}
+
+.first-width img{
+    width: 100%;
+    padding-left: 2%;
+    height: 500px;
+}
+section{
+    height: 500px;
+    padding-bottom: 150px;
+}
+
+.first-width{
+    margin-left: 5%;
+}
+
+.first-width{
+    width: 30%;
+    float: left;
+    margin: left 5%;
+    padding-left:  5%;
+}
