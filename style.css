@@ -27,6 +27,7 @@ h2{
     padding-left: 2%;
     height: 500px;
 }
+
 section{
     
     height: 500px;
@@ -65,6 +66,7 @@ section{
 .latest{
     text-align: center;
 }
+
 .latest-part{
     background-image: url( images/latest-work-bg.png);
     background-repeat: no-repeat;
@@ -72,19 +74,15 @@ section{
     background-size: 100%;
 }
 
-
 .latest-part img{
     width: 30%;
     margin: 1%;
-    margin-left: 2%;
-    
-
+    margin-left: 2%;   
 } 
 
-
 @media screen and (max-width: 600px){
-
 }
+
 .client{
     text-align: center;
     background-image: url(images/footer-bg.png);
@@ -92,14 +90,14 @@ section{
     width: 100%;
     background-size: 100%;
 }
+
 .gray{
     color: gray;
 }
+
 .p{
     text-align: justify, center;
-
 }
-
 
 .button-gmail-link{
     color: white;
@@ -108,15 +106,15 @@ section{
      padding: 1px 300px 55px 300px ;
     border-radius: 5px;
     font-style: bold;
-    
 }
+
 .gmail{
     -webkit-box-orient: vertical;
     display: -webkit-box;
     overflow: hidden;
-    -webkit-line-clamp: 2;
-    
-
     font-size: 25px;
 }
 
+footer{
+    text-align: center;
+}
