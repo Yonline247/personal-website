@@ -71,14 +71,52 @@ section{
     width: 100%;
     background-size: 100%;
 }
-.latest-img{
 
-
-}
 
 .latest-part img{
     width: 30%;
     margin: 1%;
     margin-left: 2%;
+    
+
+} 
+
+
+@media screen and (max-width: 600px){
 
 }
+.client{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+    width: 100%;
+    background-size: 100%;
+}
+.gray{
+    color: gray;
+}
+.p{
+    text-align: justify, center;
+
+}
+
+
+.button-gmail-link{
+    color: white;
+    text-decoration: none;
+    background-color: rgb(171, 8, 185);
+     padding: 1px 300px 55px 300px ;
+    border-radius: 5px;
+    font-style: bold;
+    
+}
+.gmail{
+    -webkit-box-orient: vertical;
+    display: -webkit-box;
+    overflow: hidden;
+    -webkit-line-clamp: 2;
+    
+
+    font-size: 25px;
+}
+
